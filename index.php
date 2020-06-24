@@ -60,7 +60,5 @@
         </form>
     </div>
 
-    <script src="index.js"></script>
-    <!-- `travel_form` (`s.no`, `name`, `age`, `email`, `phone`, `other`, `dt`) VALUES ('1', 'testSample', '19', 'this@gmail.com', '9999999999', 'This is a good value. ', current_timestamp()); -->
 </body>
 </html>
